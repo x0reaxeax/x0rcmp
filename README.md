@@ -1,2 +1,2 @@
 # x0rcmp
-Yes, XOR is lit af
+Read more at http://x0reaxe.ax/x0rcmp.html
